@@ -5,7 +5,7 @@
 BUILD
 
 ```Shell
-$ docker build -t susieyy/nginx-reverse-proxy
+$ docker build -t susieyy/nginx-reverse-proxy .
 ```
 
 RUN
